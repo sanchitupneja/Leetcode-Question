@@ -15,4 +15,12 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
