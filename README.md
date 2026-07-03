@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -37,4 +38,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
