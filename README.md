@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0035-search-insert-position) |
@@ -39,6 +40,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
