@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
