@@ -50,6 +50,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0231-power-of-two) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanchitupneja/Leetcode-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
 | ------- |
