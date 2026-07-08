@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
