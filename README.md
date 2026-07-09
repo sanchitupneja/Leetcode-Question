@@ -36,6 +36,7 @@
 | [0141-linked-list-cycle](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -77,6 +78,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
