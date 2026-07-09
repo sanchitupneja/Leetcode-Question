@@ -52,6 +52,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -73,16 +74,22 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
