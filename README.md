@@ -78,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0345-reverse-vowels-of-a-string) |
@@ -92,4 +93,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
