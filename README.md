@@ -79,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0344-reverse-string) |
@@ -103,4 +104,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
