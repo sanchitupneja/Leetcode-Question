@@ -16,6 +16,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,8 +111,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
