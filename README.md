@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0414-third-maximum-number) |
+| [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +109,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
