@@ -18,6 +18,7 @@
 | [0455-assign-cookies](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0735-asteroid-collision) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,8 +130,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0455-assign-cookies) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
