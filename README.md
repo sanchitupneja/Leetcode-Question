@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0136-single-number) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0860-lemonade-change) |
 ## Prefix Sum
