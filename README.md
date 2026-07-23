@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0035-search-insert-position) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0058-length-of-last-word) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
