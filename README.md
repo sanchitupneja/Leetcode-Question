@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
