@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0860-lemonade-change) |
@@ -81,6 +82,7 @@
 | [0050-powx-n](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanchitupneja/Leetcode-Question/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
@@ -93,6 +95,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
