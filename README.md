@@ -25,6 +25,7 @@
 | [0735-asteroid-collision](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0904-fruit-into-baskets) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sanchitupneja/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -71,6 +72,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0904-fruit-into-baskets) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sanchitupneja/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sanchitupneja/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
