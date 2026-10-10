@@ -20,6 +20,7 @@
 | [0414-third-maximum-number](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0904-fruit-into-baskets) |
@@ -152,6 +153,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sanchitupneja/Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanchitupneja/Leetcode-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
